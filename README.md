@@ -1,4 +1,4 @@
-# GetNCleanData
+# GetNCleanData  (run_analysis1.R is the right file)
 This repository contains code for getting and clean data for analysis at a later time: A data scientist's biggest headache
 
 This data is the UCI HAR Dataset. It can be downloaded from the UCI data repository at the link"
